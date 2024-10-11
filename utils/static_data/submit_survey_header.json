@@ -1,0 +1,14 @@
+{ 
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", 
+    "accept-language": "en-US,en;q=0.9", 
+    "cache-control": "max-age=0", 
+    "content-type": "application/x-www-form-urlencoded", 
+    "cookie": "", 
+    "dnt": "1", 
+    "origin": "https://gqa.cdn.gdev.exponea.com", 
+    "priority": "u=0, i", 
+    "referer": "https://gqa.cdn.gdev.exponea.com/cmp-qa-engineer/s/eyJjdXN0b21lcl9pZCI6IjY2ZmQzNDA2ODNlNzUxNjJjMjRhZTAzZiIsInN1cnZleV9pZCI6IjY0MzZhNWRiMWMwOWRhNjIxY2RiNDhiMSJ9.Sv8EPBFRsb0BXeh6ddY1q6_P7-s", 
+    "sec-ch-ua-mobile": "?0", 
+    "sec-fetch-dest": "document", 
+    "sec-fetch-site": "same-origin" 
+  }
